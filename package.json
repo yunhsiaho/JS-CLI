@@ -2,12 +2,12 @@
   "name": "js-cli",
   "version": "1.0.0",
   "description": "",
-  "main": "bin/index.js",
+  "main": "index.js",
   "bin": {
-    "holiday": "./bin/index.js"
+    "holidays": "/index.js"
   },
   "scripts": {
-    "test": "holidates"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -21,8 +21,9 @@
   "homepage": "https://github.com/yunhsiaho/JS-CLI#readme",
   "dependencies": {
     "axios": "^0.21.1",
-    "chalk": "^4.1.0",
+    "chalk": "^4.1.1",
     "country-list": "^2.2.0",
+    "figlet": "^1.5.0",
     "ora": "^5.4.0"
   }
 }
