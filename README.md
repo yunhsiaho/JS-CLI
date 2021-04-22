@@ -5,12 +5,16 @@ After downloading this package, you can get all the holidays from the year and c
 
 ## How to install it?
 `npm i @yunhsiaho/js-cli`
+<br/>
 Easy, right?
 
 ## How to use it
 Type this command with the year and country you want
+<br/>
 `holidays [year] [country]`
+<br/>
 For example:
+<br/>
 `holidays 2020 belgium`
 
 ## Want to see some result?
@@ -26,6 +30,3 @@ Voila~
 
 ## License
 #### ISC
-
-## Keyword
-none
